@@ -1,5 +1,5 @@
 # AI-thoughts 🤖
-A repository of great thoughts about AI
+A repository of great quotes about AI
 
 ### Geoffrey Hinton
 - I recently realized that the kind of digital intelligence we’re developing might be a better form of intelligence than what biological brains have. I always used to think that deep learning was trying to mimic the brain, but that it wasn’t as good as the brain and we could make it better by making it more like the brain. But now I think AI systems may be doing some things more efficiently than the brain.
