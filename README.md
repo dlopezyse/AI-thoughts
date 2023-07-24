@@ -1,5 +1,5 @@
-# AI-thoughts 🤖
-A repository of great thoughts about Artificial Intelligence
+
+## *A repository of thoughts about Artificial Intelligence* 🤖
 
 ### Bengio, Yoshua
 - Instead of learning separately from images and videos on one hand, and from text on the other hand, we need to do a better job of jointly learning about language and about the world to which it refers, so that both sides can help each other. [Source](https://www.youtube.com/watch?v=azOmzumh0vQ)
